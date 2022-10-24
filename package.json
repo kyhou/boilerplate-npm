@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Joel Vicente Filho"
+	"author": "Joel Vicente Filho",
+	"description": "A project to learn npm!"
 }
