@@ -12,5 +12,10 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Joel Vicente Filho",
-	"description": "A project to learn npm!"
+	"description": "A project to learn npm!",
+	"keywords": [
+		"npm",
+		"freecodecamp",
+		"learning"
+	]
 }
