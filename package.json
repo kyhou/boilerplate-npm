@@ -17,5 +17,6 @@
 		"npm",
 		"freecodecamp",
 		"learning"
-	]
+	],
+	"license": "MIT"
 }
